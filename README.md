@@ -181,7 +181,7 @@ Structured answer + citations returned to Gradio UI
 - [ ] Add web search tool to the agent
 - [ ] Support multi-document research sessions
 - [ ] Add memory persistence across sessions
-- [ ] Vision model integration for true chart understanding
+- [ ] Vision model integration for true chart understanding aiai
 
 ---
 
